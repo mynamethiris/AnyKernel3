@@ -4,17 +4,17 @@
 ### AnyKernel setup
 # global properties
 properties() { '
-kernel.string=ExampleKernel by osm0sis @ xda-developers
+kernel.string=LidiLadu Kernel
 do.devicecheck=1
 do.modules=0
 do.systemless=1
 do.cleanup=1
 do.cleanuponabort=0
-device.name1=maguro
-device.name2=toro
-device.name3=toroplus
-device.name4=tuna
-device.name5=
+device.name1=X01BD
+device.name2=X01BDA
+device.name3=Zenfone Max Pro M2 (X01BD)
+device.name4=ASUS_X01BD
+device.name5=ASUS_X01BDA
 supported.versions=
 supported.patchlevels=
 supported.vendorpatchlevels=
